@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ss2809/DSA/tree/master/0001-two-sum) |
+| [0078-subsets](https://github.com/Ss2809/DSA/tree/master/0078-subsets) |
 | [0134-gas-station](https://github.com/Ss2809/DSA/tree/master/0134-gas-station) |
 ## Hash Table
 |  |
@@ -26,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0134-gas-station](https://github.com/Ss2809/DSA/tree/master/0134-gas-station) |
 | [0763-partition-labels](https://github.com/Ss2809/DSA/tree/master/0763-partition-labels) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Ss2809/DSA/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Ss2809/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
