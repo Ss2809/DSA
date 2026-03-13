@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Ss2809/DSA/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/Ss2809/DSA/tree/master/0179-largest-number) |
 | [0485-max-consecutive-ones](https://github.com/Ss2809/DSA/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/Ss2809/DSA/tree/master/0645-set-mismatch) |
 | [1470-shuffle-the-array](https://github.com/Ss2809/DSA/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Ss2809/DSA/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Ss2809/DSA/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ss2809/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0645-set-mismatch](https://github.com/Ss2809/DSA/tree/master/0645-set-mismatch) |
 | [0763-partition-labels](https://github.com/Ss2809/DSA/tree/master/0763-partition-labels) |
 ## Two Pointers
 |  |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Ss2809/DSA/tree/master/0078-subsets) |
+| [0645-set-mismatch](https://github.com/Ss2809/DSA/tree/master/0645-set-mismatch) |
 | [1009-complement-of-base-10-integer](https://github.com/Ss2809/DSA/tree/master/1009-complement-of-base-10-integer) |
 ## Dynamic Programming
 |  |
@@ -55,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Ss2809/DSA/tree/master/0179-largest-number) |
+| [0645-set-mismatch](https://github.com/Ss2809/DSA/tree/master/0645-set-mismatch) |
 ## Depth-First Search
 |  |
 | ------- |
