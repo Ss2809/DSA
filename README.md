@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ss2809/DSA/tree/master/0001-two-sum) |
+| [0040-combination-sum-ii](https://github.com/Ss2809/DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Ss2809/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ss2809/DSA/tree/master/0090-subsets-ii) |
 | [0134-gas-station](https://github.com/Ss2809/DSA/tree/master/0134-gas-station) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ss2809/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Ss2809/DSA/tree/master/0022-generate-parentheses) |
+| [0040-combination-sum-ii](https://github.com/Ss2809/DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Ss2809/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ss2809/DSA/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
