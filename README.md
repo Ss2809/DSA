@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ss2809/DSA/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Ss2809/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/Ss2809/DSA/tree/master/0040-combination-sum-ii) |
 | [0075-sort-colors](https://github.com/Ss2809/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Ss2809/DSA/tree/master/0078-subsets) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Ss2809/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Ss2809/DSA/tree/master/0713-subarray-product-less-than-k) |
 ## Sliding Window
 |  |
