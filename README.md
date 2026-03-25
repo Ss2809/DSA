@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Ss2809/DSA/tree/master/0231-power-of-two) |
 | [0645-set-mismatch](https://github.com/Ss2809/DSA/tree/master/0645-set-mismatch) |
 | [1009-complement-of-base-10-integer](https://github.com/Ss2809/DSA/tree/master/1009-complement-of-base-10-integer) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Ss2809/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Dynamic Programming
 |  |
 | ------- |
