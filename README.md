@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Ss2809/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ss2809/DSA/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/Ss2809/DSA/tree/master/0231-power-of-two) |
 | [0645-set-mismatch](https://github.com/Ss2809/DSA/tree/master/0645-set-mismatch) |
 | [1009-complement-of-base-10-integer](https://github.com/Ss2809/DSA/tree/master/1009-complement-of-base-10-integer) |
 ## Dynamic Programming
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Ss2809/DSA/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/Ss2809/DSA/tree/master/0231-power-of-two) |
 ## Stack
 |  |
 | ------- |
@@ -178,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Ss2809/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/Ss2809/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ss2809/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Ss2809/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
