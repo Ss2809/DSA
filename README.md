@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Ss2809/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ss2809/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Ss2809/DSA/tree/master/1470-shuffle-the-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Ss2809/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1929-concatenation-of-array](https://github.com/Ss2809/DSA/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Ss2809/DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Ss2809/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ss2809/DSA/tree/master/0090-subsets-ii) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Ss2809/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Ss2809/DSA/tree/master/0231-power-of-two) |
 | [0645-set-mismatch](https://github.com/Ss2809/DSA/tree/master/0645-set-mismatch) |
 | [1009-complement-of-base-10-integer](https://github.com/Ss2809/DSA/tree/master/1009-complement-of-base-10-integer) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Ss2809/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Ss2809/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Dynamic Programming
 |  |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Ss2809/DSA/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/Ss2809/DSA/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Ss2809/DSA/tree/master/0231-power-of-two) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Ss2809/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Stack
 |  |
 | ------- |
@@ -189,4 +193,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Ss2809/DSA/tree/master/0231-power-of-two) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Ss2809/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Ss2809/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
