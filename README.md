@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Ss2809/DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Ss2809/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ss2809/DSA/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/Ss2809/DSA/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/Ss2809/DSA/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ss2809/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ss2809/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Ss2809/DSA/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/Ss2809/DSA/tree/master/0179-largest-number) |
 | [0347-top-k-frequent-elements](https://github.com/Ss2809/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/Ss2809/DSA/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ss2809/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Ss2809/DSA/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ss2809/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ss2809/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/Ss2809/DSA/tree/master/0506-relative-ranks) |
 ## Bucket Sort
 |  |
 | ------- |
