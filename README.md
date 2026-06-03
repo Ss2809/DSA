@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Ss2809/DSA/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Ss2809/DSA/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/Ss2809/DSA/tree/master/0179-largest-number) |
+| [0257-binary-tree-paths](https://github.com/Ss2809/DSA/tree/master/0257-binary-tree-paths) |
 | [0763-partition-labels](https://github.com/Ss2809/DSA/tree/master/0763-partition-labels) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ss2809/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Greedy
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Ss2809/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Ss2809/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ss2809/DSA/tree/master/0090-subsets-ii) |
+| [0257-binary-tree-paths](https://github.com/Ss2809/DSA/tree/master/0257-binary-tree-paths) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ss2809/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Ss2809/DSA/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Ss2809/DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ss2809/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Ss2809/DSA/tree/master/0257-binary-tree-paths) |
 | [0547-number-of-provinces](https://github.com/Ss2809/DSA/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Ss2809/DSA/tree/master/0572-subtree-of-another-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ss2809/DSA/tree/master/1971-find-if-path-exists-in-graph) |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ss2809/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/Ss2809/DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ss2809/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Ss2809/DSA/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/Ss2809/DSA/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
 |  |
@@ -284,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ss2809/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/Ss2809/DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ss2809/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Ss2809/DSA/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/Ss2809/DSA/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
