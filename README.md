@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Ss2809/DSA/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Ss2809/DSA/tree/master/0547-number-of-provinces) |
+| [0572-subtree-of-another-tree](https://github.com/Ss2809/DSA/tree/master/0572-subtree-of-another-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ss2809/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -262,4 +263,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ss2809/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Tree
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Ss2809/DSA/tree/master/0572-subtree-of-another-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Ss2809/DSA/tree/master/0572-subtree-of-another-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Ss2809/DSA/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Ss2809/DSA/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
