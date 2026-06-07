@@ -5,79 +5,67 @@ public:
         int n = grid.size();
         int m = grid[0].size();
 
-        vector<vector<bool>> vis(n, vector<bool>(m, false));
+        queue<pair<pair<int,int>, int>> q;
 
-        queue<pair<pair<int, int>, int>> qu;
+        int fresh = 0;
 
-        // Push all rotten oranges
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
+        // Store all rotten oranges
+        for(int i = 0; i < n; i++) {
+            for(int j = 0; j < m; j++) {
 
-                if (grid[i][j] == 2) {
-                    qu.push({{i, j}, 0});
-                    vis[i][j] = true;
+                if(grid[i][j] == 2) {
+                    q.push({{i, j}, 0});
+                }
+
+                if(grid[i][j] == 1) {
+                    fresh++;
                 }
             }
         }
 
         int ans = 0;
 
-        while (!qu.empty()) {
+        while(!q.empty()) {
 
-            int row = qu.front().first.first;
-            int col = qu.front().first.second;
-            int time = qu.front().second;
+            int row = q.front().first.first;
+            int col = q.front().first.second;
+            int time = q.front().second;
 
-            qu.pop();
+            q.pop();
 
             ans = max(ans, time);
 
             // Top
-            if (row - 1 >= 0 &&
-                !vis[row - 1][col] &&
-                grid[row - 1][col] == 1) {
-
-                vis[row - 1][col] = true;
-                qu.push({{row - 1, col}, time + 1});
+            if(row - 1 >= 0 && grid[row - 1][col] == 1) {
+                grid[row - 1][col] = 2;
+                fresh--;
+                q.push({{row - 1, col}, time + 1});
             }
 
             // Bottom
-            if (row + 1 < n &&
-                !vis[row + 1][col] &&
-                grid[row + 1][col] == 1) {
-
-                vis[row + 1][col] = true;
-                qu.push({{row + 1, col}, time + 1});
+            if(row + 1 < n && grid[row + 1][col] == 1) {
+                grid[row + 1][col] = 2;
+                fresh--;
+                q.push({{row + 1, col}, time + 1});
             }
 
             // Left
-            if (col - 1 >= 0 &&
-                !vis[row][col - 1] &&
-                grid[row][col - 1] == 1) {
-
-                vis[row][col - 1] = true;
-                qu.push({{row, col - 1}, time + 1});
+            if(col - 1 >= 0 && grid[row][col - 1] == 1) {
+                grid[row][col - 1] = 2;
+                fresh--;
+                q.push({{row, col - 1}, time + 1});
             }
 
             // Right
-            if (col + 1 < m &&
-                !vis[row][col + 1] &&
-                grid[row][col + 1] == 1) {
-
-                vis[row][col + 1] = true;
-                qu.push({{row, col + 1}, time + 1});
+            if(col + 1 < m && grid[row][col + 1] == 1) {
+                grid[row][col + 1] = 2;
+                fresh--;
+                q.push({{row, col + 1}, time + 1});
             }
         }
 
-        // Check if any fresh orange remains
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-
-                if (grid[i][j] == 1 && !vis[i][j]) {
-                    return -1;
-                }
-            }
-        }
+        if(fresh > 0)
+            return -1;
 
         return ans;
     }
