@@ -1,44 +1,36 @@
 class Solution {
-public:
-
-    bool dfs(int node, vector<int>& vis, vector<int>& path, vector<int> adj[]) {
-
-        vis[node] = 1;
-        path[node] = 1;
-
-        for(int neigh : adj[node]) {
-
-            if(!vis[neigh]) {
-                if(dfs(neigh, vis, path, adj))
+    private:
+    bool CheckCycle(int node , vector<vector<int>> &adj,vector<bool> &vis, vector<bool> &recpath  ){
+        vis[node] = true;
+        recpath[node] = true;
+        for(auto i : adj[node]){
+            if(!vis[i]){
+                if(CheckCycle(i, adj,vis, recpath)){
                     return true;
-            }
-            else if(path[neigh]) {
+                }
+            }else if(recpath[i]){
                 return true;
             }
         }
-
-        path[node] = 0;
+        recpath[node] = false;
         return false;
     }
-
-    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-
-        vector<int> adj[numCourses];
-
+public:
+    bool canFinish(int numCourses , vector<vector<int>>& prerequisites) {
+       vector<vector<int>> adj(numCourses);
+      
         for(auto e : prerequisites) {
             adj[e[1]].push_back(e[0]);
         }
-
-        vector<int> vis(numCourses,0);
-        vector<int> path(numCourses,0);
-
-        for(int i=0;i<numCourses;i++) {
-            if(!vis[i]) {
-                if(dfs(i,vis,path,adj))
-                    return false;
+        vector<bool>vis(numCourses,false);
+        vector<bool>recpath(numCourses,false);
+        for(int i = 0; i < numCourses; i++){
+            if(!vis[i]){
+               if(CheckCycle(i, adj, vis, recpath)){
+                return false;
+               }
             }
         }
-
         return true;
     }
 };
