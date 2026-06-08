@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Ss2809/DSA/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ss2809/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/Ss2809/DSA/tree/master/0134-gas-station) |
+| [0169-majority-element](https://github.com/Ss2809/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Ss2809/DSA/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/Ss2809/DSA/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/Ss2809/DSA/tree/master/0283-move-zeroes) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Ss2809/DSA/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ss2809/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Ss2809/DSA/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Ss2809/DSA/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ss2809/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/Ss2809/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ss2809/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Ss2809/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Ss2809/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Ss2809/DSA/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Ss2809/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Ss2809/DSA/tree/master/0179-largest-number) |
 | [0295-find-median-from-data-stream](https://github.com/Ss2809/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Ss2809/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ss2809/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Ss2809/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ss2809/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0912-sort-an-array](https://github.com/Ss2809/DSA/tree/master/0912-sort-an-array) |
@@ -280,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ss2809/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ss2809/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Ss2809/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Ss2809/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Ss2809/DSA/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Ss2809/DSA/tree/master/0973-k-closest-points-to-origin) |
