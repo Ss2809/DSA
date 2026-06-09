@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Ss2809/DSA/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/Ss2809/DSA/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/Ss2809/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Ss2809/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Ss2809/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ss2809/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ss2809/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Ss2809/DSA/tree/master/0075-sort-colors) |
 | [0234-palindrome-linked-list](https://github.com/Ss2809/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Ss2809/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Ss2809/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Ss2809/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0763-partition-labels](https://github.com/Ss2809/DSA/tree/master/0763-partition-labels) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ss2809/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Ss2809/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ss2809/DSA/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/Ss2809/DSA/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/Ss2809/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Ss2809/DSA/tree/master/0645-set-mismatch) |
 | [1009-complement-of-base-10-integer](https://github.com/Ss2809/DSA/tree/master/1009-complement-of-base-10-integer) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ss2809/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ss2809/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/Ss2809/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ss2809/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ss2809/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Ss2809/DSA/tree/master/0713-subarray-product-less-than-k) |
