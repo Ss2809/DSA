@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ss2809/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1929-concatenation-of-array](https://github.com/Ss2809/DSA/tree/master/1929-concatenation-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ss2809/DSA/tree/master/2965-find-missing-and-repeated-values) |
+| [3838-weighted-word-mapping](https://github.com/Ss2809/DSA/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Ss2809/DSA/tree/master/0257-binary-tree-paths) |
 | [0763-partition-labels](https://github.com/Ss2809/DSA/tree/master/0763-partition-labels) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ss2809/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3838-weighted-word-mapping](https://github.com/Ss2809/DSA/tree/master/3838-weighted-word-mapping) |
 ## Greedy
 |  |
 | ------- |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Ss2809/DSA/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/Ss2809/DSA/tree/master/1929-concatenation-of-array) |
+| [3838-weighted-word-mapping](https://github.com/Ss2809/DSA/tree/master/3838-weighted-word-mapping) |
 ## Counting Sort
 |  |
 | ------- |
