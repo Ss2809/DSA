@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Ss2809/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Ss2809/DSA/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Ss2809/DSA/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/Ss2809/DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Ss2809/DSA/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Ss2809/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Ss2809/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Ss2809/DSA/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Ss2809/DSA/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/Ss2809/DSA/tree/master/1929-concatenation-of-array) |
 | [3838-weighted-word-mapping](https://github.com/Ss2809/DSA/tree/master/3838-weighted-word-mapping) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Ss2809/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Ss2809/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Ss2809/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Ss2809/DSA/tree/master/0079-word-search) |
