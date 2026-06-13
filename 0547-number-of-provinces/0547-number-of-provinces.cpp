@@ -1,25 +1,23 @@
 class Solution {
-public:
-    void slove(int start, vector<int> &vis, vector<vector<int>>& isConnected) {
-       vis[start] = 1;
-
-        for (int j = 0; j < isConnected.size(); j++) {
-
-            if (isConnected[start][j] == 1 && !vis[j]) {
-                slove(j, vis, isConnected);
-            }
+    private:
+    void dfs(int i, vector<bool> &vis,vector<vector<int>>& isConnected){
+        vis[i] = true;
+      for(int j = 0; j < isConnected.size(); j++){
+        if(isConnected[i][j] == 1 && !vis[j]){
+            dfs(j, vis, isConnected);
         }
+      }
     }
+public:
     int findCircleNum(vector<vector<int>>& isConnected) {
-        int n = isConnected.size();
-        vector<int>vis(n,0);
-        int ans = 0;
-        for (int i = 0; i < n; i++) {
-            if (!vis[i]) {
-                ans++;
-                slove(i, vis, isConnected);
+        int cnt = 0;
+        vector<bool>vis(isConnected.size(), false);
+        for(int i = 0; i< isConnected.size(); i++){
+            if(!vis[i]){
+                cnt++;
+                dfs(i, vis, isConnected);
             }
         }
-        return ans;
+        return cnt;
     }
 };
