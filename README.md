@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Ss2809/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ss2809/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Ss2809/DSA/tree/master/1470-shuffle-the-array) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Ss2809/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ss2809/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1929-concatenation-of-array](https://github.com/Ss2809/DSA/tree/master/1929-concatenation-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ss2809/DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Ss2809/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Ss2809/DSA/tree/master/0547-number-of-provinces) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Ss2809/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ss2809/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Ss2809/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ss2809/DSA/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Ss2809/DSA/tree/master/0547-number-of-provinces) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Ss2809/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ss2809/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
@@ -427,4 +430,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Ss2809/DSA/tree/master/0208-implement-trie-prefix-tree) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Ss2809/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
