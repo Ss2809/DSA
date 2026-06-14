@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Ss2809/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Ss2809/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ss2809/DSA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Ss2809/DSA/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/Ss2809/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Ss2809/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Ss2809/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Ss2809/DSA/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Ss2809/DSA/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Ss2809/DSA/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/Ss2809/DSA/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Ss2809/DSA/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ss2809/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0257-binary-tree-paths](https://github.com/Ss2809/DSA/tree/master/0257-binary-tree-paths) |
